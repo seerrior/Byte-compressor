@@ -1,0 +1,9 @@
+build/
+cmake-build*/
+*.o
+*.a
+*.exe
+*.byc
+bytec_sample/
+ 
+Cache/ 
